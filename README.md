@@ -1,4 +1,4 @@
-# Slider_Crank_Mech
+# Slider_Crank_Mech    (November 2023)
 
 1. Made Slider Crank Mechaism using Acrylic material
 2. For cutting the required parts used CO2 Laser Cutting Machine
